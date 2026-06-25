@@ -1,0 +1,6 @@
+{
+  "name": "KhataBhai",
+  "description": "WhatsApp-first AI billing and payment reminder assistant for Indian SMBs. Create invoices, send PDF bills, and automate reminders directly from WhatsApp without complex software.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
